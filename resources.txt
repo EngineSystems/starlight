@@ -1,0 +1,114 @@
+Home 1 Page: 
+**********
+Image Count: 32
+Icon Count: 4
+Pages: header-23.html - hero-9.html - preloader-3.html - popup-6.html - feature-13.html - team-3.html - story-12.html - about-14.html - to-top-5.html - culture-24.html - testimonial-24.html - footer-29.html - counter-1.html - cta-10.html - blog-8.html
+
+Home 2 Page: 
+**********
+Image Count: 22
+Icon Count: 5
+Pages: header-9.html - hero-21.html - preloader-3.html - popup-6.html - about-14.html - feature-11.html - counter-2.html - infobox-17.html - team-15.html - to-top-5.html - blog-1.html - pricing-6.html - cta-5.html - testimonial-21.html - footer-37.html
+
+About Us Page: 
+**********
+Image Count: 16
+Icon Count: 3
+Pages: header-23.html - subheader-8.html - preloader-3.html - popup-6.html - about-7.html - counter-14.html - team-13.html - blog-6.html - to-top-5.html - footer-29.html
+
+Culture Page: 
+**********
+Image Count: 12
+Icon Count: 0
+Pages: header-23.html - subheader-8.html - preloader-3.html - popup-6.html - culture-16.html - about-4.html - cta-8.html - to-top-5.html - footer-29.html - pricing-4.html
+
+Culture Details Page: 
+**********
+Image Count: 11
+Icon Count: 0
+Pages: header-23.html - subheader-8.html - preloader-3.html - popup-6.html - culture-details-3.html - to-top-5.html - footer-29.html
+
+Pricing Page: 
+**********
+Image Count: 7
+Icon Count: 0
+Pages: header-23.html - subheader-8.html - preloader-3.html - popup-6.html - pricing-3.html - to-top-5.html - footer-29.html
+
+Blog Page: 
+**********
+Image Count: 21
+Icon Count: 0
+Pages: header-23.html - subheader-8.html - preloader-3.html - popup-6.html - blog-archive-1.html - to-top-5.html - footer-29.html
+
+Blog Details Page: 
+**********
+Image Count: 21
+Icon Count: 0
+Pages: header-23.html - subheader-8.html - preloader-3.html - popup-6.html - blog-details-2.html - to-top-5.html - footer-29.html
+
+Blog Details- Audio Page: 
+**********
+Image Count: 16
+Icon Count: 0
+Pages: header-23.html - subheader-8.html - preloader-3.html - popup-6.html - blog-details-audio-3.html - to-top-5.html - footer-29.html
+
+Blog Details- Video Page: 
+**********
+Image Count: 22
+Icon Count: 0
+Pages: header-23.html - subheader-8.html - preloader-3.html - popup-6.html - blog-details-video-1.html - to-top-5.html - footer-29.html
+
+Blog Details- Gallery Page: 
+**********
+Image Count: 25
+Icon Count: 0
+Pages: header-23.html - subheader-8.html - preloader-3.html - popup-6.html - blog-details-gallery-1.html - to-top-5.html - footer-29.html
+
+Blog Details- Quote Page: 
+**********
+Image Count: 21
+Icon Count: 0
+Pages: header-23.html - subheader-8.html - preloader-3.html - popup-6.html - blog-details-quote-1.html - to-top-5.html - footer-29.html
+
+Blog Details- Link Page: 
+**********
+Image Count: 21
+Icon Count: 0
+Pages: header-23.html - subheader-8.html - preloader-3.html - popup-6.html - blog-details-link-4.html - to-top-5.html - footer-29.html
+
+Contact Us Page: 
+**********
+Image Count: 7
+Icon Count: 4
+Pages: header-23.html - subheader-8.html - preloader-3.html - popup-6.html - contact-form-5.html - to-top-5.html - infobox-15.html - footer-29.html
+
+Story Page: 
+**********
+Image Count: 12
+Icon Count: 0
+Pages: header-23.html - subheader-8.html - preloader-3.html - popup-6.html - story-16.html - to-top-5.html - footer-29.html
+
+Story Details Page: 
+**********
+Image Count: 22
+Icon Count: 2
+Pages: header-23.html - subheader-8.html - preloader-3.html - popup-6.html - story-details-1.html - to-top-5.html - footer-29.html
+
+Team Page: 
+**********
+Image Count: 11
+Icon Count: 0
+Pages: header-23.html - subheader-8.html - preloader-3.html - popup-6.html - team-12.html - to-top-5.html - footer-29.html
+
+Error Page: 
+**********
+Image Count: 8
+Icon Count: 0
+Pages: header-23.html - subheader-8.html - preloader-3.html - popup-6.html - error-1.html - to-top-5.html - footer-29.html
+
+Coming Soon Page: 
+**********
+Image Count: 11
+Icon Count: 0
+Pages: header-23.html - subheader-8.html - preloader-3.html - popup-6.html - coming-soon-3.html - to-top-5.html - footer-29.html
+

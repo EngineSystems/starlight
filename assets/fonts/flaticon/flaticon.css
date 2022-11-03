@@ -1,0 +1,83 @@
+@font-face {
+    font-family: "flaticon";
+    src: url("./flaticon.ttf?e9a6c551b3a27d03745c588693c75021") format("truetype"),
+url("./flaticon.woff?e9a6c551b3a27d03745c588693c75021") format("woff"),
+url("./flaticon.woff2?e9a6c551b3a27d03745c588693c75021") format("woff2"),
+url("./flaticon.eot?e9a6c551b3a27d03745c588693c75021#iefix") format("embedded-opentype"),
+url("./flaticon.svg?e9a6c551b3a27d03745c588693c75021#flaticon") format("svg");
+}
+
+i[class^="flaticon-"]:before, i[class*=" flaticon-"]:before {
+    font-family: flaticon !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.flaticon-church:before {
+    content: "\f101";
+}
+.flaticon-hryvnia:before {
+    content: "\f102";
+}
+.flaticon-ukraine:before {
+    content: "\f103";
+}
+.flaticon-ukraine-1:before {
+    content: "\f104";
+}
+.flaticon-hryvnia-1:before {
+    content: "\f105";
+}
+.flaticon-matryoshka-doll:before {
+    content: "\f106";
+}
+.flaticon-ring:before {
+    content: "\f107";
+}
+.flaticon-chocolate:before {
+    content: "\f108";
+}
+.flaticon-chocolate-1:before {
+    content: "\f109";
+}
+.flaticon-europe:before {
+    content: "\f10a";
+}
+.flaticon-lantern:before {
+    content: "\f10b";
+}
+.flaticon-planet-earth:before {
+    content: "\f10c";
+}
+.flaticon-tunnel-of-love:before {
+    content: "\f10d";
+}
+.flaticon-nuclear-power:before {
+    content: "\f10e";
+}
+.flaticon-borscht:before {
+    content: "\f10f";
+}
+.flaticon-field:before {
+    content: "\f110";
+}
+.flaticon-chef:before {
+    content: "\f111";
+}
+.flaticon-cooking:before {
+    content: "\f112";
+}
+.flaticon-cheese-market:before {
+    content: "\f113";
+}
+.flaticon-tray:before {
+    content: "\f114";
+}
+.flaticon-restaurant:before {
+    content: "\f115";
+}

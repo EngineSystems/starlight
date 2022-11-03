@@ -1,0 +1,109 @@
+$flaticon-font: "flaticon";
+
+@font-face {
+    font-family: $flaticon-font;
+    src: url("./flaticon.ttf?e9a6c551b3a27d03745c588693c75021") format("truetype"),
+url("./flaticon.woff?e9a6c551b3a27d03745c588693c75021") format("woff"),
+url("./flaticon.woff2?e9a6c551b3a27d03745c588693c75021") format("woff2"),
+url("./flaticon.eot?e9a6c551b3a27d03745c588693c75021#iefix") format("embedded-opentype"),
+url("./flaticon.svg?e9a6c551b3a27d03745c588693c75021#flaticon") format("svg");
+}
+
+i[class^="flaticon-"]:before, i[class*=" flaticon-"]:before {
+    font-family: flaticon !important;
+    font-style: normal;
+    font-weight: normal !important;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+$flaticon-map: (
+    "church": "\f101",
+    "hryvnia": "\f102",
+    "ukraine": "\f103",
+    "ukraine-1": "\f104",
+    "hryvnia-1": "\f105",
+    "matryoshka-doll": "\f106",
+    "ring": "\f107",
+    "chocolate": "\f108",
+    "chocolate-1": "\f109",
+    "europe": "\f10a",
+    "lantern": "\f10b",
+    "planet-earth": "\f10c",
+    "tunnel-of-love": "\f10d",
+    "nuclear-power": "\f10e",
+    "borscht": "\f10f",
+    "field": "\f110",
+    "chef": "\f111",
+    "cooking": "\f112",
+    "cheese-market": "\f113",
+    "tray": "\f114",
+    "restaurant": "\f115",
+);
+
+.flaticon-church:before {
+    content: map-get($flaticon-map, "church");
+}
+.flaticon-hryvnia:before {
+    content: map-get($flaticon-map, "hryvnia");
+}
+.flaticon-ukraine:before {
+    content: map-get($flaticon-map, "ukraine");
+}
+.flaticon-ukraine-1:before {
+    content: map-get($flaticon-map, "ukraine-1");
+}
+.flaticon-hryvnia-1:before {
+    content: map-get($flaticon-map, "hryvnia-1");
+}
+.flaticon-matryoshka-doll:before {
+    content: map-get($flaticon-map, "matryoshka-doll");
+}
+.flaticon-ring:before {
+    content: map-get($flaticon-map, "ring");
+}
+.flaticon-chocolate:before {
+    content: map-get($flaticon-map, "chocolate");
+}
+.flaticon-chocolate-1:before {
+    content: map-get($flaticon-map, "chocolate-1");
+}
+.flaticon-europe:before {
+    content: map-get($flaticon-map, "europe");
+}
+.flaticon-lantern:before {
+    content: map-get($flaticon-map, "lantern");
+}
+.flaticon-planet-earth:before {
+    content: map-get($flaticon-map, "planet-earth");
+}
+.flaticon-tunnel-of-love:before {
+    content: map-get($flaticon-map, "tunnel-of-love");
+}
+.flaticon-nuclear-power:before {
+    content: map-get($flaticon-map, "nuclear-power");
+}
+.flaticon-borscht:before {
+    content: map-get($flaticon-map, "borscht");
+}
+.flaticon-field:before {
+    content: map-get($flaticon-map, "field");
+}
+.flaticon-chef:before {
+    content: map-get($flaticon-map, "chef");
+}
+.flaticon-cooking:before {
+    content: map-get($flaticon-map, "cooking");
+}
+.flaticon-cheese-market:before {
+    content: map-get($flaticon-map, "cheese-market");
+}
+.flaticon-tray:before {
+    content: map-get($flaticon-map, "tray");
+}
+.flaticon-restaurant:before {
+    content: map-get($flaticon-map, "restaurant");
+}
