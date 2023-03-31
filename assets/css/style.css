@@ -11136,6 +11136,8 @@ background-color: var(--thm-border);
 .sigma_team .sigma_team-thumb {
   position: relative;
   overflow: hidden;
+  max-height: 270px;
+  max-width: 270px;
 }
 
 .sigma_team .sigma_team-thumb.has-width {
@@ -11145,8 +11147,11 @@ background-color: var(--thm-border);
 }
 
 .sigma_team .sigma_team-thumb img {
+  position: relative;
+  top: -50%;
   transition: 0.3s;
   max-width: 270px;
+
 }
 
 .sigma_team .sigma_team-thumb:hover img {
@@ -16799,6 +16804,10 @@ background-color: var(--thm-border);
 
 .sigma_footer .sigma_footer-widget {
   padding-bottom: 50px;
+}
+
+.sigma_footer .sigma_footer-widget p {
+  white-space: pre-line;
 }
 
 .sigma_footer .sigma_footer-contact li,
